@@ -1,0 +1,5 @@
+print("  -> python is simple and easy")
+print("  -> Free and open source")
+print("  -> High Level Language")
+print("  -> High Level Language")
+print("  -> Portable and","Developed by Guido Van Rossum")
