@@ -6,7 +6,7 @@
             
         
         >> Rule_02
-           1st character is alphabet (letter) or Underscore(_) || can't start with a number(0-9)
+           1st character is alphabet (letter) or Underscore(_) || can't start with a number or digit(0-9)
             
             
         >> Rule_03
@@ -17,6 +17,10 @@
         
         >> Rule_05
            Identifier can be of any length. 
+        
+        >> Rule_06
+           Identifier name can't be  same of data type name.
+            
 
 '''
 print("Rule and Restriction of variable in Python")
@@ -24,11 +28,13 @@ print("Rule and Restriction of variable in Python")
 print("Valid Variable in python")
 # valid variable declaration and assign the value
 var_1 = 6
+Var_1 = 725
 name = "KzRaihan"
 number = 100
 price = 290.99
 
-print("var_1")
+print("var_1:", var_1) # case sensitive
+print("Var_1: ", Var_1)
 print("Name: ", name)
 print("Number is : ", number)
 print("Book prices: ", price)
@@ -54,6 +60,10 @@ print("MyFullName:",MyFullName)
     #var = 456
     fix,price = 99.99
     my Name = "ooo"
+    int = 4
+    float = 5.00 
+    double = 6.00004
+    char = 'a'
 
 '''
 
