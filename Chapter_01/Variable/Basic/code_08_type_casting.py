@@ -5,8 +5,11 @@
     
     >> The two main types of type casting.
        1. Implicit Type Conversion (Automatic)
-            -->  Python automatically converts one data type to another.
+            -->  Python automatically converts one data type to another.(smaller type convert to bigger type).
        2. Explicit Type Conversion (Manual)
+            --> User can only convert  Manually in code.
+            --> syntax: 
+                      target data type(source variable name)
 
 
 '''
@@ -15,7 +18,7 @@ print("Implicit Type Conversion (Automatic)")
 num1 = 49.59
 num2 = 50
 
-print("Sum = ", num1 + num2)  # num1 to convert to num2.|| op: Sum = 99.59
+print("Sum = ", num1 + num2)  # num2 to convert to num1 type.|| op: Sum = 99.59
 
 print("Explicit Type Conversion (Manual)")
 

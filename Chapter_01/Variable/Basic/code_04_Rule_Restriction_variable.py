@@ -28,7 +28,7 @@ print("Rule and Restriction of variable in Python")
 print("Valid Variable in python")
 # valid variable declaration and assign the value
 var_1 = 6
-Var_1 = 725
+Var_1 = 725  # here, var_1 and Var_1 are two different variable.(case sensitive)
 name = "KzRaihan"
 number = 100
 price = 290.99
@@ -40,6 +40,7 @@ print("Number is : ", number)
 print("Book prices: ", price)
 
 #valid variable
+print("\n\n")
 Fix_price = 1000
 pi = 3.1416
 _1var = 99
@@ -66,6 +67,3 @@ print("MyFullName:",MyFullName)
     char = 'a'
 
 '''
-
-
-
