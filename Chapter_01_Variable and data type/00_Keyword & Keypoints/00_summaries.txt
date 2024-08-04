@@ -1,0 +1,16 @@
+>>  Variable 
+     -> [ definition, Rules and Restriction ].
+
+>> Data type
+     -> [ definition, types, example]
+
+>> type() function
+     -> [ definition, type]
+
+>> operand, operators
+           -> [ operators definition, type, use] 
+
+>> input()
+     -> use
+
+>> Practice set
