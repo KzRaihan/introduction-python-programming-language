@@ -1,0 +1,16 @@
+"""  
+Topic: List outcomes
+   
+    -> what is List
+    -> basic operation of List
+           --> act as same and different values
+           --> Indexing
+           --> slicing
+           --> slicing fo negative Indexing
+           
+    -> list different method/Functions
+    -> Problem Sets
+
+
+
+"""
