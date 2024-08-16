@@ -1,0 +1,4 @@
+Hello Everyone
+Today Iam learning the file of i/o in python
+Iam from Bangladesh 
+Iam 23 Years old.

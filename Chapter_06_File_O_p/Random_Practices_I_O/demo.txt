@@ -1,0 +1,7 @@
+Hello Everyone!
+    My name is Kz_Raihan
+    I am learning Python programming language
+    I am excited to learn and share my knowledge with others.
+    I am a beginner in Python programming language.
+
+Thank You!
