@@ -2,7 +2,7 @@
     -> Variable(Identifier) are like a container to storing data.
 
         >> Rule_01
-            A variable name can only contain alpha-numeria characters and underscores.
+            A variable name can only contain alpha-numeric characters and underscores.
             
         
         >> Rule_02
